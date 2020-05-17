@@ -90,7 +90,6 @@ result = "sefr" if num % 3 == 0 else ye_chizi
 <div style="direction:rtl!important">
 
 * مرحله آخرش این‌جوری می‌شه. ولی می‌بینید که خوانایی کد پایین‌تر میاد. پس بهتره خیلی زیاد ازش استفاده نکنیم.
-
 </div>
 
 
